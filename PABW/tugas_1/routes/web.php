@@ -23,4 +23,4 @@ Route::get('/fakultas', function () {
         ['Kode' => 'FIT', 'nama_fakultas' => 'Fakultas Ilmu Terapan'],
     ];
     return view('fakultas', ['fakultas' => $fakultas]);
-});
+});//
