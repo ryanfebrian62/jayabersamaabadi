@@ -8,11 +8,11 @@
                 margin: 20px 0;
             }
             table, th, td {
-                border: 1px solid black;
+                border: 1px solid rgb(5, 159, 255);
             }
             th {
                 font-weight: bold;
-                background-color: #f2f2f2;
+                background-color: #00ccff;
                 text-align: center;
             }
             th, td {
